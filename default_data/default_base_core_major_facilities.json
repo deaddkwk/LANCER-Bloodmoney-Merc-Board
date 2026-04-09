@@ -1,7 +1,7 @@
 [
   {
     "type": "Core",
-    "facilityName": "Command Center",
+    "facilityName": "커맨드 센터 Command Center",
     "facilityDescription": "The beating heart of the base. This is where the company organizes their forces throughout the theater, from active field teams to support efforts to scouts. It's also where players pick, and are briefed on, their Jobs.",
     "facilityPrice": 0,
     "isPurchased": true,
